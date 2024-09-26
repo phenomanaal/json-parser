@@ -1,2 +1,3 @@
 tests/test_files/
 tests.zip
+*/__pycache__/
